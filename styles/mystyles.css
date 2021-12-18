@@ -1,0 +1,15 @@
+/* Custom Styles for text*/
+h1{
+    color: black;
+}
+.bold{
+    font-weight: bold;
+    font-size: 10pt;
+    color:grey;
+}
+.align{text-align: center;}
+.alignright{text-align: right}
+.white{color: white;}
+p{ 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
